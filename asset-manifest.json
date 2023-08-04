@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Task2Focal/static/css/main.37f84c4a.css",
+    "main.js": "/Task2Focal/static/js/main.9f764d36.js",
+    "static/js/787.512dd3f2.chunk.js": "/Task2Focal/static/js/787.512dd3f2.chunk.js",
+    "static/media/homepage.jpg": "/Task2Focal/static/media/homepage.27b5770a8369f7151d86.jpg",
+    "static/media/back-button.png": "/Task2Focal/static/media/back-button.d19b46127c03f302fed2.png",
+    "static/media/logo.png": "/Task2Focal/static/media/logo.b7db8d663a0190cf8c64.png",
+    "index.html": "/Task2Focal/index.html",
+    "main.37f84c4a.css.map": "/Task2Focal/static/css/main.37f84c4a.css.map",
+    "main.9f764d36.js.map": "/Task2Focal/static/js/main.9f764d36.js.map",
+    "787.512dd3f2.chunk.js.map": "/Task2Focal/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37f84c4a.css",
+    "static/js/main.9f764d36.js"
+  ]
+}
